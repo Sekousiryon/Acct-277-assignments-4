@@ -23,8 +23,14 @@
   It was through exploring cultures around the world that I first became interested in language
 <img src="girl.jpeg">
 
- <p align="right";width="50%";size="15"> It began with French, which taught me the importance of pronunciation. I remember once asking a store owner in Paris where Rue des Pyramides was. But when I 
- pronounced it PYR–a–mides instead of pyr–A–mides, with more accent on the A she looked at me bewildered.</p>
+ <p align="right";width="50%";size="15"> 
+  It began with French, which taught 
+  me the importance of pronunciation.
+  I remember once asking a store owner 
+  in Paris where Rue des Pyramides was. 
+  But when I pronounced it PYR–a–mides 
+  instead of pyr–A–mides, with more
+  accent on the A she looked at me bewildered.</p>
   In the eighth grade.I became fascinated with Spanish and aware of its similarities with English through cognates. Baseball in Spanish, for example, is béisbol, which looks different but sounds nearly the same. This was incredible to me as it made speech and comprehension more fluid, and even today I find that cognates come to the rescue when I forget how to say something in Spanish.
   Then, in high school, I developed an enthusiasm for Chinese. As I studied Chinese at my school, I marveled how if just one stroke was missing from a character, the meaning is lost. I loved how long words were formed by combining simpler characters, so Huǒ ( 火 ) meaning fire and Shān ( 山 ) meaning mountain can be joined to create Huǒshān ( 火山 ), which means volcano. I love spending hours at a time practicing the characters and I can feel the beauty and rhythm as I form them</p>
   <div><img src="Labtop.jpg"style=height;500px;widht;80%">
