@@ -20,7 +20,7 @@
  <h1>Travelling in Depression</h1>
 <p>When I was very little, I caught the travel bug. It started after my grandparents first brought me to their home in France and I have now been to twenty-nine different countries. Each has given me a unique</br></p>
    At five, I marveled at the Eiffel Tower in the City of Lights. When I was eight, I stood in the heart of Piazza San Marco feeding hordes of pigeons, then glided down Venetian waterways on sleek gondolas. At thirteen, I saw the ancient, megalithic structure of Stonehenge and walked along the Great Wall of China, amazed that the thousand-year-old stones were still in place.
-  <p align="right"It was through exploring cultures around the world that I first became interested in language
+  <p align="right">It was through exploring cultures around the world that I first became interested in language
 <img src="girl.jpeg" <hr width="30%";size="auto"=;align: left">
 
   It began with French, which taught me the importance of pronunciation. I remember once asking a store owner in Paris where Rue des Pyramides was. But when I pronounced it PYR–a–mides instead of pyr–A–mides, with more accent on the A she looked at me bewildered.
