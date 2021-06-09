@@ -23,7 +23,7 @@
   It was through exploring cultures around the world that I first became interested in language
 <img src="girl.jpeg">
 
- <p align="right";width="50%";size="15"> 
+ <p align="center"> 
   It began with French, which taught 
   me the importance of pronunciation.
   I remember once asking a store owner 
